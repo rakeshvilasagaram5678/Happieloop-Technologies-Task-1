@@ -17,7 +17,7 @@ The objective of this project is to create a simple Python program that displays
 •	Running the program using PyCharm or a terminal
 •	Verifying the output in the console
 
-Technology Used
+## Technology Used
 •	Programming Language: Python
 •	IDE: PyCharm
 •	Execution Environment: PyCharm Run Console / Terminal
