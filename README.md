@@ -1,8 +1,8 @@
-**Name:** Vilasagaram Rakesh
-**Company:** Happieloop Technologies
-**ID:** 161220
-**Domain:** Python
-**Duration:** 12th November 2025 to 11th January 2026
+**Name:** Vilasagaram Rakesh  
+**Company:** Happieloop Technologies  
+**ID:** 161220  
+**Domain:** Python  
+**Duration:** 12th November 2025 to 11th January 2026  
 
 ## Overview of the Project
 
