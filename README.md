@@ -12,23 +12,23 @@
 The objective of this project is to create a simple Python program that displays the message “Hello, World!” on the console. This project helps beginners understand basic Python syntax, file creation, and program execution.
 
 ## Key Activities
-•	Creating a Python file with a .py extension
-•	Writing a basic Python program using the print() function
-•	Running the program using PyCharm or a terminal
-•	Verifying the output in the console
+•	Creating a Python file with a .py extension  
+•	Writing a basic Python program using the print() function  
+•	Running the program using PyCharm or a terminal  
+•	Verifying the output in the console  
 
 ## Technology Used
-•	Programming Language: Python
-•	IDE: PyCharm
-•	Execution Environment: PyCharm Run Console / Terminal
+•	Programming Language: Python  
+•	IDE: PyCharm  
+•	Execution Environment: PyCharm Run Console / Terminal  
 
 ## Description
 This project demonstrates the most basic Python program. It uses Python’s built-in print() function to output text to the console. The program contains only one line of code, making it easy to understand and ideal for beginners who are learning how Python programs work.
 
 ## Source Code Explanation
-•	print() is a built-in Python function used to display output.
-•	"Hello, World!" is a string that represents the message to be printed.
-•	When the program runs, the print() function sends the message to the console.
+•	print() is a built-in Python function used to display output.  
+•	"Hello, World!" is a string that represents the message to be printed.  
+•	When the program runs, the print() function sends the message to the console.  
 
 ## Steps to Run the Program
 1.	Open PyCharm.
